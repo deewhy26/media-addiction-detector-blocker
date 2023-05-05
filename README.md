@@ -1,0 +1,1 @@
+# media-addiction-detector-blocker
